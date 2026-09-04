@@ -1,10 +1,10 @@
 <img align="right" width="165" src="./assets/yakuza-profile-vertical.png" alt="Yakuza">
 
-# Salut, moi c'est egld
+**Salut, moi c'est egld**
 
 Fan de **Yakuza / Like a Dragon**, je travaille sur des projets de traduction française pour rendre les épisodes 4, 5 et 6 plus accessibles aux joueurs francophones.
 
-## Projet : traductions Yakuza 4, 5 & 6
+**Projet : traductions Yakuza 4, 5 & 6**
 
 | Épisode | Traduction | Débogage |
 | :---: | :---: | :---: |
@@ -14,7 +14,7 @@ Fan de **Yakuza / Like a Dragon**, je travaille sur des projets de traduction fr
 
 Le projet actif est [**Yakuza 4 Remastered — Traduction française**](https://github.com/Egld-Rma/Yakuza4-Remastered-FR).
 
-## Langages & outils
+**Langages & outils**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
@@ -24,7 +24,7 @@ Le projet actif est [**Yakuza 4 Remastered — Traduction française**](https://
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
 
-## Contact
+**Contact**
 
 Discord : **egld**
 
