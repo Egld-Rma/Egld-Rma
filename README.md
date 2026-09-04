@@ -1,8 +1,6 @@
-<table>
-  <tr>
-    <td width="72%" valign="top">
+<img align="right" width="165" src="./assets/yakuza-profile-vertical.png" alt="Yakuza">
 
-# Salut, moi c'est Egld-Rma
+# Salut, moi c'est egld
 
 Fan de **Yakuza / Like a Dragon**, je travaille sur des projets de traduction française pour rendre les épisodes 4, 5 et 6 plus accessibles aux joueurs francophones.
 
@@ -29,10 +27,3 @@ Le projet actif est [**Yakuza 4 Remastered — Traduction française**](https://
 ## Contact
 
 Discord : **egld**
-
-    </td>
-    <td width="28%" align="center" valign="bottom">
-      <img src="assets/yakuza-profile-vertical.png" alt="Yakuza" width="165">
-    </td>
-  </tr>
-</table>
