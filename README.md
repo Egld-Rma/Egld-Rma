@@ -27,3 +27,5 @@ Le projet actif est [**Yakuza 4 Remastered — Traduction française**](https://
 ## Contact
 
 Discord : **egld**
+
+<img src="https://discord.c99.nl/widget/theme-2/921401977693409380.png" alt="Statut Discord">
