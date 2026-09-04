@@ -1,7 +1,7 @@
 <table>
 <tr>
 <td width="72%" valign="top">
-<h3>Salut, moi c'est egld</h3>
+<h3>Salut 👋</h3>
 <p>Fan de <strong>Yakuza / Like a Dragon</strong>, je travaille sur des projets de traduction française pour rendre les épisodes 4, 5 et 6 plus accessibles aux joueurs francophones.</p>
 <h3>Projet : traductions Yakuza 4, 5 &amp; 6</h3>
 <table>
