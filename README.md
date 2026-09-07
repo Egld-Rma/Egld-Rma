@@ -6,7 +6,7 @@
 <h3>Projet : traductions Yakuza 4, 5 &amp; 6</h3>
 <table>
 <tr><th>Épisode</th><th>Traduction</th><th>Débogage</th></tr>
-<tr><td><strong>Yakuza 4 Remastered</strong></td><td><img src="https://progress-bar.xyz/80/?title=&amp;width=140&amp;color=ffa500" alt="80 %"></td><td><img src="https://progress-bar.xyz/20/?title=&amp;width=140&amp;color=ff5252" alt="20 %"></td></tr>
+<tr><td><strong>Yakuza 4 Remastered</strong></td><td><img src="https://progress-bar.xyz/90/?title=&amp;width=140&amp;color=4caf50" alt="90 %"></td><td><img src="https://progress-bar.xyz/35/?title=&amp;width=140&amp;color=ffa500" alt="35 %"></td></tr>
 <tr><td><strong>Yakuza 5 Remastered</strong></td><td><img src="https://progress-bar.xyz/0/?title=&amp;width=140&amp;color=555555" alt="0 %"></td><td><img src="https://progress-bar.xyz/0/?title=&amp;width=140&amp;color=555555" alt="0 %"></td></tr>
 <tr><td><strong>Yakuza 6: The Song of Life</strong></td><td><img src="https://progress-bar.xyz/0/?title=&amp;width=140&amp;color=555555" alt="0 %"></td><td><img src="https://progress-bar.xyz/0/?title=&amp;width=140&amp;color=555555" alt="0 %"></td></tr>
 </table>
