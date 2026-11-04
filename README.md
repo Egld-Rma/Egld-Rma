@@ -18,16 +18,8 @@ Dans Yakuza 3 Remastered, les résumés de Yakuza 1 et 2 avaient disparu du menu
 
 <img src="./assets/chapitre-4.svg" width="100%" alt="Chapitre final : me contacter">
 
-<table>
-<tr>
-<td width="70%" align="center" valign="middle">
-Discord : <b>egld</b><br><br>
+<p align="center">
 <img src="https://discord.c99.nl/widget/theme-2/921401977693409380.png" alt="Statut Discord">
-</td>
-<td width="30%" align="center" valign="bottom">
-<img src="./assets/yakuza-profile-vertical.png" alt="Yakuza" width="150">
-</td>
-</tr>
-</table>
+</p>
 
 <img src="./assets/fin.svg" width="100%" alt="À suivre">
