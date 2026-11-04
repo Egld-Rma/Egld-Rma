@@ -16,10 +16,10 @@
 
 Dans Yakuza 3 Remastered, les résumés de Yakuza 1 et 2 avaient disparu du menu titre. **[Yakuza 3 Recaps Restored](https://github.com/Egld-Rma/Yakuza3-Recaps-Restored)** les remet en place : on glisse les fichiers dans le dossier du jeu, et c'est tout.
 
-<img src="./assets/chapitre-3.svg" width="100%" alt="Chapitre 3 : l'atelier">
+<img src="./assets/chapitre-3.svg" width="100%" alt="Chapitre 3 : outils">
 
 <p align="center">
-<kbd>Python</kbd> <kbd>C</kbd> <kbd>Zig</kbd> <kbd>PowerShell</kbd> <kbd>Ghidra</kbd> <kbd>Git</kbd> <kbd>Photoshop</kbd>
+<kbd>Python</kbd> <kbd>C</kbd> <kbd>Zig</kbd> <kbd>PowerShell</kbd> <kbd>Markdown</kbd> <kbd>Ghidra</kbd> <kbd>Git</kbd> <kbd>GitHub</kbd> <kbd>VS Code</kbd> <kbd>Photoshop</kbd>
 </p>
 
 <img src="./assets/chapitre-4.svg" width="100%" alt="Chapitre final : me contacter">
