@@ -21,5 +21,3 @@ Dans Yakuza 3 Remastered, les résumés de Yakuza 1 et 2 avaient disparu du menu
 <p align="center">
 <img src="https://discord.c99.nl/widget/theme-2/921401977693409380.png" alt="Statut Discord">
 </p>
-
-<img src="./assets/fin.svg" width="100%" alt="À suivre">
