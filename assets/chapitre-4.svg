@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 90" width="1200" height="90">
+<style>
+.k{animation:fade .6s ease-out both}
+.t{animation:fade .6s ease-out .25s both}
+.l{stroke-dasharray:900;stroke-dashoffset:900;animation:draw 1.2s ease-out .4s forwards}
+@keyframes fade{from{opacity:0}to{opacity:1}}
+@keyframes draw{to{stroke-dashoffset:0}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+</style>
+<rect width="1200" height="90" fill="#0b0b0e"/>
+<g class="k"><text x="40" y="58" font-family="'Yu Mincho','Hiragino Mincho ProN','Noto Serif JP','MS Mincho',serif" font-size="30" font-weight="700" fill="#d4213d">終章</text></g>
+<g class="t"><text x="170" y="57" font-family="'Helvetica Neue','Segoe UI',Arial,sans-serif" font-size="22" letter-spacing="6" fill="#ece7de">ME CONTACTER</text></g>
+<line class="l" x1="170" y1="72" x2="1160" y2="72" stroke="#26262d" stroke-width="1"/>
+</svg>

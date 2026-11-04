@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" width="1200" height="120">
+<style>
+.in{animation:fade .8s ease-out both}
+@keyframes fade{from{opacity:0}to{opacity:1}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+</style>
+<rect width="1200" height="120" fill="#0b0b0e"/>
+<g class="in">
+<rect x="40" y="26" width="128" height="26" fill="none" stroke="#ece7de" stroke-width="1"/>
+<text x="104" y="44" font-family="'Helvetica Neue','Segoe UI',Arial,sans-serif" font-size="12" font-weight="700" letter-spacing="5" fill="#ece7de" text-anchor="middle">SUBSTORY</text>
+<text x="40" y="92" font-family="'Helvetica Neue','Segoe UI',Arial,sans-serif" font-size="26" fill="#ece7de">Les récaps de Yakuza 1 &amp; 2</text>
+<text x="1160" y="44" font-family="'Helvetica Neue','Segoe UI',Arial,sans-serif" font-size="12" font-weight="700" letter-spacing="4" fill="#d4213d" text-anchor="end">DISPONIBLE</text>
+</g>
+</svg>

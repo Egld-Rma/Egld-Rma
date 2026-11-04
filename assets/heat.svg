@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 336" width="1200" height="336">
+<defs><clipPath id="c"><rect x="40" y="0" width="1120" height="336"/></clipPath>
+<linearGradient id="sh" x1="0" x2="1"><stop offset="0" stop-color="#d4213d" stop-opacity="0"/><stop offset=".5" stop-color="#d4213d"/><stop offset="1" stop-color="#d4213d" stop-opacity="0"/></linearGradient></defs>
+<style>
+.fill{transform-origin:40px 0;animation:grow 1.4s cubic-bezier(.2,.8,.2,1) .2s both}
+.run{animation:run 2.6s ease-in-out infinite}
+@keyframes grow{from{transform:scaleX(0)}to{transform:scaleX(1)}}
+@keyframes run{from{transform:translateX(-300px)}to{transform:translateX(1120px)}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+</style>
+<rect width="1200" height="336" fill="#0b0b0e"/>
+<text x="40" y="48" font-family="'Helvetica Neue','Segoe UI',Arial,sans-serif" font-size="19" fill="#ece7de">Yakuza 4 Remastered</text>
+<text x="1160" y="48" font-family="'Helvetica Neue','Segoe UI',Arial,sans-serif" font-size="13" font-weight="700" letter-spacing="3" fill="#d4213d" text-anchor="end">TERMINÉ</text>
+<rect x="40" y="62" width="1120" height="4" rx="2" fill="#1d1d23"/>
+<rect class="fill" x="40" y="62" width="1120" height="4" rx="2" fill="#d4213d"/>
+<text x="40" y="122" font-family="'Helvetica Neue','Segoe UI',Arial,sans-serif" font-size="19" fill="#ece7de">Yakuza 3 Remastered</text>
+<text x="1160" y="122" font-family="'Helvetica Neue','Segoe UI',Arial,sans-serif" font-size="13" font-weight="700" letter-spacing="3" fill="#e0a83a" text-anchor="end">EN COURS</text>
+<rect x="40" y="136" width="1120" height="4" rx="2" fill="#1d1d23"/>
+<g clip-path="url(#c)"><rect class="run" x="40" y="136" width="300" height="4" rx="2" fill="url(#sh)"/></g>
+<text x="40" y="196" font-family="'Helvetica Neue','Segoe UI',Arial,sans-serif" font-size="19" fill="#8a8a94">Yakuza 5 Remastered</text>
+<text x="1160" y="196" font-family="'Helvetica Neue','Segoe UI',Arial,sans-serif" font-size="13" font-weight="700" letter-spacing="3" fill="#8a8a94" text-anchor="end">PRÉVU</text>
+<rect x="40" y="210" width="1120" height="4" rx="2" fill="#1d1d23"/>
+<text x="40" y="270" font-family="'Helvetica Neue','Segoe UI',Arial,sans-serif" font-size="19" fill="#8a8a94">Yakuza 6 : The Song of Life</text>
+<text x="1160" y="270" font-family="'Helvetica Neue','Segoe UI',Arial,sans-serif" font-size="13" font-weight="700" letter-spacing="3" fill="#8a8a94" text-anchor="end">PRÉVU</text>
+<rect x="40" y="284" width="1120" height="4" rx="2" fill="#1d1d23"/>
+</svg>
